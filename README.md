@@ -1,4 +1,4 @@
-Hi there 👋 만나서 반갑습니다. 다시 또 뵐 수 있도록 노력하겠습니다.
+Hi there 👋 만나서 반갑습니다. 우리 또 다시 뵐 수 있길 바래요.
 
 <!--
 **DekayKim/DekayKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DekayKim&show_icons=true&theme=radical)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dekaykim&langs_count=10&layout=compact&theme=dark)](https://github.com/dekaykim/dekaykim)﻿
 
 ### My journey 👨‍🦯
 - early AI SaaS product development in AI startup (Company.AI)
